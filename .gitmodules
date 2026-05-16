@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/yjaveria3-netizen/Dressora-Backend.git
+	branch = main
+
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/yjaveria3-netizen/Dressora-Frontend.git
+	branch = main
